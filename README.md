@@ -22,6 +22,7 @@ Based in Germany
 - Industrial Software for Machine Control and Management
 - Digital Twins & Industrial IoT
 - Modern Software Development in Industrial Environments
+- Security
 
 ## 🖥️ Languages
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2b%2b&logoColor=white&style=flat-square)
