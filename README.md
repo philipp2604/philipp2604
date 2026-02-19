@@ -9,6 +9,7 @@
 
 ## 🚀 Profession
 **Automation & Software Specialist**  
+*Building bridges between OT and IT.*  
 Based in Germany
 
 ## 🧑‍💻 Current Focus
@@ -28,7 +29,6 @@ Based in Germany
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2b%2b&logoColor=white&style=flat-square)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat-square)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![IEC 61131-3](https://img.shields.io/badge/IEC%2061131--3-blue?style=flat-square)
 
 ## 🛠️ Tools
@@ -56,13 +56,8 @@ Based in Germany
 - Requirements engineering
 - Technical documentation
 - Electrical schematic design
-
----
-
 ## 📫 Let's connect!
 - [LinkedIn](https://www.linkedin.com/in/philipp-siewert/)
 - [GitHub](https://github.com/philipp2604)
 
 ---
-
-*Always learning. Always automating. Always exploring new tech!*
