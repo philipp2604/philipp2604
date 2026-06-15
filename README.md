@@ -17,13 +17,13 @@ C#/.NET developer with a background in process engineering. Focus on industrial 
 
 > Two libraries, two strengths: practical IIoT engineering and low-level protocol depth.
 
-### 🔌 [PlugB](https://github.com/philipp2604/PlugB) — Sparkplug B Edge Node library
+### 🔌 [PlugB](https://github.com/philipp2604/PlugB) — Sparkplug B Edge Node & Host library
 
 [![NuGet](https://img.shields.io/nuget/v/philipp2604.PlugB?logo=nuget&style=flat-square)](https://www.nuget.org/packages/philipp2604.PlugB/)
 [![.NET](https://img.shields.io/badge/.NET-10.0-512BD4?logo=dotnet&logoColor=white&style=flat-square)](https://dotnet.microsoft.com/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue?style=flat-square)](https://opensource.org/licenses/Apache-2.0)
 
-Publish industrial data as a **spec-correct Sparkplug B Edge Node** — without ever touching MQTT topics, Protobuf byte arrays or sequence numbers. Handles the parts hand-rolled wrappers usually get wrong: the full **NBIRTH/NDEATH/DBIRTH lifecycle**, automatic **`seq`/`bdSeq` management**, and a **thread-safe, serialized publish pipeline**. Covered by unit tests and Testcontainers-based integration tests, built & shipped via GitHub Actions and NuGet.
+Speak Sparkplug B in both directions — publish industrial data as a spec-correct Edge Node and consume it as a Host Application — without ever touching MQTT topics, Protobuf byte arrays or sequence numbers. Handles the parts hand-rolled wrappers usually get wrong: the full NBIRTH/NDEATH/DBIRTH lifecycle, automatic `seq`/`bdSeq` management, a thread-safe serialized publish pipeline, Primary-Host STATE gating with store-and-forward & multi-broker failover, and a consumer that decodes foreign BIRTH/DATA into a live namespace model with automatic rebirth. Covered by unit tests and Testcontainers-based integration tests, built & shipped via GitHub Actions and NuGet.
 
 ### 🧩 [LiteUa](https://github.com/philipp2604/LiteUa) — Dependency-free OPC UA client library
 
